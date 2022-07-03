@@ -1,0 +1,14 @@
+D:\vb project\EVM machine\bin\Debug\EVM machine.exe.config
+D:\vb project\EVM machine\bin\Debug\EVM machine.exe
+D:\vb project\EVM machine\bin\Debug\EVM machine.pdb
+D:\vb project\EVM machine\bin\Debug\EVM machine.xml
+D:\vb project\EVM machine\obj\Debug\EVM machine.vbprojAssemblyReference.cache
+D:\vb project\EVM machine\obj\Debug\EVM_machine.Form1.resources
+D:\vb project\EVM machine\obj\Debug\EVM_machine.Form2.resources
+D:\vb project\EVM machine\obj\Debug\EVM_machine.Resources.resources
+D:\vb project\EVM machine\obj\Debug\EVM machine.vbproj.GenerateResource.cache
+D:\vb project\EVM machine\obj\Debug\EVM machine.exe
+D:\vb project\EVM machine\obj\Debug\EVM machine.xml
+D:\vb project\EVM machine\obj\Debug\EVM machine.pdb
+D:\vb project\EVM machine\obj\Debug\EVM_machine.Form3.resources
+D:\vb project\EVM machine\obj\Debug\EVM_machine.Form4.resources
